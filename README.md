@@ -30,7 +30,4 @@ Your project uses SQLite for development and testing. In production, consider us
 
 Manage your project dependencies using Pipenv, defined in `Pipfile`.
 
-This README provides an overview of your Django project's structure. You can start building your web application by creating views, templates, and models, configuring settings in `settings.py`, defining URLs in `urls.py`, and running migrations to create database tables.
-
-Enjoy working on your Django project!
 
